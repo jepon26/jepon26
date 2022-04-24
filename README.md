@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jepon26
+- 👋 Hi, I’m Elvin Rueda @jepon26
 - 👀 I’m interested in ... JavasCript, Html, CSS
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
