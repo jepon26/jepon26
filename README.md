@@ -16,7 +16,7 @@
 
   
   
-   [Linkedln](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0)[Linkedln](https://www.google.hn/search?sa=X&hl=en&q=Linkedin+icon+download&tbm=isch&source=iu&ictx=1&vet=1#imgrc=JdyXos__tp7KHM)
+   [Linkedln](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0):EMOJICODE:@octocat :+1: This PR looks great - it's ready to merge! :shipit:
   
 
 
