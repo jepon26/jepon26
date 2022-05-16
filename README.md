@@ -13,10 +13,12 @@
     </html>
   
   
-
+<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>
   
   
    [Contact me](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0)(class="fa fa-github)<a href="https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0" target="_blank" class="fa fa-free-code-camp"></a>
+  
+  
 <div id="contact">
   <p>Contact me</p>
   <ul class="contact">
