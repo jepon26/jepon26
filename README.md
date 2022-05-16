@@ -16,7 +16,8 @@
 
   
   
-   [Linkedln](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0):EMOJICODE:@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+   [Linkedln](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0) git commit -m ":tada: Initial commit"
+ 
   
 
 
