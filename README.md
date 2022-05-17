@@ -17,7 +17,7 @@
   
 
   
-  ## You cand find me:
+  ## You cand find 🗺️:
   
   -[Linkedln](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
  
