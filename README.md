@@ -12,11 +12,14 @@
   <body>
     </html>
   
-  - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+  
+  
+  
 
   
+  ## You cand find me:
   
-   [Linkedln](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0) git commit -m ":tada: Initial commit"
+  -[Linkedln](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
  
   
 
