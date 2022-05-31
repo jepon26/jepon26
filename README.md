@@ -8,7 +8,7 @@
   <p>- 👀 A web software developer. I’ve been developing websites for over a year, using JavaScript, React & Node.js.
       Passionate about continuous learning and I am interested in new technologies and innovations.</p>
   
-- 🌱 I’m currently improve my learning ... JavaScript
+- 🌱 I’m currently improve my learning ... JavaScript, Typescript
   <body>
     </html>
   
