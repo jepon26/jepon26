@@ -19,7 +19,7 @@
   
   ## Where to find me 🗺️:
   
-  - :g[Linkedln](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
+  - [Linkedln](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
  
   
 
