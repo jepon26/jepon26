@@ -21,7 +21,7 @@
   
   - [Linkedln](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
  
-  - [freeCodeCamp](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0)
+  - [freeCodeCamp]([https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0](https://www.freecodecamp.org/fcc6fc3a524-7928-4a49-a122-b41226bdcbe0))
 
 
 
