@@ -48,8 +48,7 @@
   </p>                                                                                                                              
  
                                                                                                                                     
-                                                                                                                                                                                      
-  - [CodePen](https://codepen.io/jepon26)
+                                                                                                                                                                       
 
                                                                                                                                
 </body>
