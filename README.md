@@ -41,7 +41,7 @@
                                                                                                             
                                                                                                             
    <a href="mailto:elvinrueda26@gmail.com" target="blank"><img align="center"     
-                                                                                                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail//gmail-original.svg" alt="yahoo" width="30" height="30"/>Yahoo</a>                                                                                                         
+                                                                                                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail//gmail-original.svg" alt="gmail" width="30" height="30"/>Gmail</a>                                                                                                         
                                                                                                             
                                                                                                             
                                                                                                             
