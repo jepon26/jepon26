@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="30 height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react//react-original.svg" alt="react" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-                                                                                 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="nodejs" width="30" height="30"/>                                                                               
   </p>
   
    <br></br>
@@ -40,6 +40,7 @@
  
   - [CodePen](https://codepen.io/jepon26)
 
+                                                                                                                               
 </body>
 
 <!---
