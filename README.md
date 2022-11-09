@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="30 height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react//react-original.svg" alt="react" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="nodejs" width="30" height="30"/>                                                                               
+                                                                                
   </p>
   
    <br></br>
@@ -35,7 +35,7 @@
   ## Where to find me 🗺️:
   
   
-  - [Linkedln](https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
+  - [Linkedln]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="nodejs" width="30" height="30"/> (https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
  
  
   - [CodePen](https://codepen.io/jepon26)
