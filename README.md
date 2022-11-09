@@ -5,6 +5,9 @@
   <h1>- 👋 Hi, I’m Elvin Rueda @jepon26</h1>
   <h2>👨Software Developer</h2>
   
+  
+   <br></br>
+  
   <p>- 👀 A web software developer. I’ve been developing websites for over a year, using JavaScript, Typescript & Node.js.
       Passionate about continuous learning and I am interested in new technologies and innovations.</p>
   
