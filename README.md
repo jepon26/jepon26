@@ -14,7 +14,7 @@
  
   
 - 🌱 I’m currently improve my learning 📖... JavaScript, React.
-  <body>
+  </body>
  
   
   
