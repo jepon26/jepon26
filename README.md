@@ -35,8 +35,9 @@
   ## Where to find me 🗺️:
   
   
-  - [Linkedln]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="nodejs" width="30" height="30"/> (https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
- 
+  <p align="left">                                                                                                                       
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="nodejs" width="30" height="30"/> (https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/)
+  </p>                                                                                                                              
  
   - [CodePen](https://codepen.io/jepon26)
 
