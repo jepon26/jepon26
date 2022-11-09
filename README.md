@@ -14,7 +14,7 @@
  
   
 - 🌱 I’m currently improve my learning 📖... JavaScript, React.
-  </body>
+  
  
   
   
@@ -40,7 +40,7 @@
  
   - [CodePen](https://codepen.io/jepon26)
 
-
+</body>
 
 <!---
 jepon26/jepon26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
