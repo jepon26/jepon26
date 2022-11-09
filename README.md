@@ -13,7 +13,7 @@
       Passionate about continuous learning and I am interested in new technologies and innovations.</p>
  
   
-   <p> 🌱 I’m currently improve my learning 📖... JavaScript, React. </p>
+   <p>- 🌱 I’m currently improve my learning 📖... JavaScript, React. </p>
   
     <br></br>
   
