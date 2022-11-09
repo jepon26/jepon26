@@ -25,7 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="30 height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="35" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5//html5-original.svg" alt="html5" width="30" height="30"/>                                           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ccs3//ccs3-original.svg" alt="ccs3" width="30" height="30"/>                                                                                    
   </p>
   
    <br></br>
