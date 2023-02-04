@@ -40,7 +40,7 @@
                                                                                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="elvin profile" width="30" height="30"/>Linkedin</a> 
                                                                                                             
    
-                                                                                                             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail//gmail-original.svg" alt="gmail" width="30" height="30"/></a>                                                                                                         
+                                                                                                                                                                                                                   
                                                                                                             
                                                                                                             
                                                                                                             
