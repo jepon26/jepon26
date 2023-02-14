@@ -42,7 +42,7 @@
                                                                                                                                
    <br></br>
   
-  ## Where to find me 🗺️:
+  ## Let's connect!:
   
   
   <p align="left">                                                                                                                       
