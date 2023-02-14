@@ -47,7 +47,7 @@
   
   <p align="left">   
              
-  <a href="https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/" target="blank"><img align="center"    <br>
+  <a href="https://www.linkedin.com/in/elvin-javier-rueda-g%C3%B3mez-7a564574/" target="blank"><img align="center" 
                                                                                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin//linkedin-original.svg" alt="elvin profile" width="30" height="30"/>Linkedin</a> 
                                                                                                             
    
