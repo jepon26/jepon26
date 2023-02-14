@@ -33,7 +33,7 @@
   <br></br>                                                                                                                             
                                                                                                                               
    
-![Jepon26's github stats](https://github-readme-stats.vercel.app/api?username=jepon26&show_icons=true&include_all_commits=true&count_private=true&title_color=687687&icon_color=DA3633&text_color=687687&bg_color=0D1117) 
+![Jepon26's github stats](https://github-readme-stats.vercel.app/api?username=jepon26&show_icons=true&include_all_commits=true&count_private=true&title_color=916c6c&icon_color=DA3633&text_color=916c6c&bg_color=0D1117) 
                                                                                                                                
                                                                                                                                
                                                                                                                                
