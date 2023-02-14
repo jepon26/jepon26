@@ -42,7 +42,7 @@
                                                                                                                                
    <br></br>
   
-  <h3>Let's connect!</h3>
+  <h4>Let's connect!</h4>
   
   
   <p align="left">   
