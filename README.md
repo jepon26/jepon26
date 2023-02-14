@@ -10,7 +10,7 @@
    <br></br>
   
   <p>- 👀 A web software developer. I’ve been developing websites for over a year, using JavaScript, Typescript & Node.js.
-      Passionate about continuous learning and I am interested in new technologies and innovations.</p>
+      Continuous learning to improve my skills.</p>
  
   
    <p>- 🌱 I’m currently improve my learning 📖... JavaScript, React. </p>
