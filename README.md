@@ -32,7 +32,7 @@
   
                                                                                                                                
                                                                                                                                
-   | <a href="https://github.com/jepon26-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jepon26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jepon's github stats" /></a> | <a href="https://github.com/jepon26-stats-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepon26&layout=compact&theme=buefy&hide_border=true" /></a> |
+   | <a href="https://github.com/jepon26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jepon26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jepon's github stats" /></a> | <a href="https://github.com/jepon26-stats-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepon26&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |                                                                                                                          
                                                                                                                                
                                                                                                                                
