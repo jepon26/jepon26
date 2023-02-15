@@ -18,12 +18,12 @@
   
   <h3>- 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
   <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5//html5-original.svg" alt="html5" width="30" height="30"/>                                           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3//css3-original.svg" alt="css3" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="30 height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react//react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5//html5-original.svg" alt="html5" width="25" height="25"/>                                           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3//css3-original.svg" alt="css3" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg" alt="javascript" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react//react-original.svg" alt="react" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="25" height="25"/>
                                                                                 
   </p>
   
