@@ -9,8 +9,8 @@
   
    <br></br>
   
-<p>- 👀  A web software developer. I’ve been developing websites for over a year, using JavaScript, Typescript & Node.js.
-      Continuous learning to improve my skills.</p>
+*** <p>- 👀  A web software developer. I’ve been developing websites for over a year, using JavaScript, Typescript & Node.js.
+      Continuous learning to improve my skills.</p> ***
  
   
    <p>- 🌱 I’m currently improve my learning 📖... JavaScript, React. </p>
