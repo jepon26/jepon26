@@ -7,7 +7,7 @@
   <h2>👨Software Developer</h2>
   
   
-   <br></br>
+   <br>
   
 ***<p>- 👀  A web software developer. I’ve been developing websites for over a year, using JavaScript, Typescript & Node.js.
       Continuous learning to improve my skills.</p>***
