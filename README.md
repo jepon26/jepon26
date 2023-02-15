@@ -2,9 +2,9 @@
 
   <body>
 
-  <h1>- 👋 Hi, I’m Elvin Rueda @jepon26</h1>
+  <h2>- 👋 Hi, I’m Elvin Rueda @jepon26</h2>
   <br></br>
-  <h2>👨Software Developer</h2>
+  <h3>👨Software Developer</h3>
   
   
    <br>
