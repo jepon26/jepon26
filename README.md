@@ -32,17 +32,14 @@
                                                                                 
   </p>
   
-  <br></br>                                                                                                                             
+  <br>                                                                                                                           
                                                                                                                               
    
 ![Jepon26's github stats](https://github-readme-stats.vercel.app/api?username=jepon26&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=d41c1c&text_color=ffffff&bg_color=161616) 
                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                   
                                                                                                                                
-                                                                                                                               
-                                                                                                                               
-                                                                                                                               
-                                                                                                                               
-   <br></br>
+   <br>
   
   ***<h4> Let's connect! </h4>***
   
