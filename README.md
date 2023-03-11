@@ -32,7 +32,7 @@
    
 * Jepon26's github stats:
   <a href="#">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?usernamejepon26&show_icons=true&theme=radical&line_height=27"/> 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jepon26&show_icons=true&theme=radical&line_height=27"/> 
   </a>                                                                                                                            
                                                                                                                                                                                                                                                                                                                                                    
                                                                                                                                
