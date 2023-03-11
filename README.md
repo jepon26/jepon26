@@ -30,8 +30,10 @@
   <br>                                                                                                                           
                                                                                                                               
    
-![Jepon26's github stats](https:///github-readme-stats.anuraghazra1.vercel.app/api?username=jepon26&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=d41c1c&text_color=ffffff&bg_color=161616) 
-                                                                                                                               
+* Jepon26's github stats:
+  <a href="#">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?usernamejepon26&show_icons=true&theme=radical&line_height=27"/> 
+  </a>                                                                                                                            
                                                                                                                                                                                                                                                                                                                                                    
                                                                                                                                
    <br>
