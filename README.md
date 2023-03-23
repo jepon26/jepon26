@@ -30,7 +30,7 @@
   <br>                                                                                                                           
                                                                                                                               
    
-* Jepon26's github stats:
+* <h4>Jepon26's github stats:<h4>
   <a href="#">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jepon26&show_icons=true&theme=radical&line_height=27"/> 
   </a>                                                                                                                            
