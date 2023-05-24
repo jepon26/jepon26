@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react//react-original.svg" alt="react" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="25" height="25"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="25" height="25"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="30" height="30"/>
                                                                                 
   </p>
   
