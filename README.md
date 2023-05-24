@@ -9,7 +9,7 @@
   
    <br>
   
-***<p>- 👀  A web software developer. I’ve been developing websites for two years, using JavaScript, Typescript & Node.js.
+***<p>- 👀  A web software developer. I’ve been developing websites for two years, using JavaScript, Typescript & Node.js, Golang.
       Continuous learning to improve my skills.</p>***
  
  
@@ -19,12 +19,13 @@
   <h3>- 🚀 &nbsp;Some Tools I Have Used and Learned</h3>
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5//html5-original.svg" alt="html5" width="25" height="25"/>                                           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3//css3-original.svg" alt="css3" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5//html5-original.svg" alt="html5" width="25" height="25"/>                                           
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3//css3-original.svg" alt="css3" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript//javascript-original.svg" alt="javascript" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript//typescript-original.svg" alt="typescript" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react//react-original.svg" alt="react" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs//nodejs-original.svg" alt="nodejs" width="25" height="25"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gol//go-original.svg" alt="go" width="25" height="25"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="25" height="25"/>
                                                                                 
   </p>
   
